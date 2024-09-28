@@ -35,5 +35,5 @@ En este momento, estoy inmerso en el emocionante mundo de las tecnologías **Fro
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ### 📬 Contáctame
-[![Email](https://img.shields.io/badge/Email-0077CC?style=flat&logo=gmail&logoColor=white)](mailto:juanjogiraldop254.com)
+[![Email](https://img.shields.io/badge/Email-0077CC?style=flat&logo=gmail&logoColor=white)](mailto:juanjogiraldop254@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-giraldo-272b592b6/)
