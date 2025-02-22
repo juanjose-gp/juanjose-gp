@@ -36,4 +36,4 @@ En este momento, estoy inmerso en el emocionante mundo de las tecnologías **Fro
 
 ### 📬 Contáctame
 [![Email](https://img.shields.io/badge/Email-0077CC?style=flat&logo=gmail&logoColor=white)](mailto:juanjogiraldop254@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-giraldo-272b592b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-jose-giraldo-patiño-dev-web)
