@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### 👨‍💻 Sobre mí
-Soy estudiante del programa de **Desarrollo de Software para Negocios Digitales** en la [Universidad de Manizales](https://umanizales.edu.co/oferta-academica/tecnologia-en-desarrollo-de-software-para-negocios-digitales). Mi pasión es diseñar y desarrollar experiencias digitales que marquen la diferencia.
+Soy Graduado de **Desarrollo de Software para Negocios Digitales** en la [Universidad de Manizales](https://umanizales.edu.co/oferta-academica/tecnologia-en-desarrollo-de-software-para-negocios-digitales). Mi pasión es diseñar y desarrollar experiencias digitales que marquen la diferencia.
 
 ### 🚀 Aprendizaje constante
-En este momento, estoy inmerso en el emocionante mundo de las tecnologías **Frontend** y **Backend**. Siempre estoy buscando nuevos desafíos que me permitan seguir creciendo y aprendiendo. 😅
+Estoy inmerso en el emocionante mundo de las tecnologías **Frontend** y **Backend**. Siempre estoy buscando nuevos desafíos que me permitan seguir creciendo y aprendiendo. 😅
 
 ### 🎯 Mis objetivos
 - **Expandir mis habilidades**: Aprender nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
